@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: ZY-Frame
+Version: 0.0.1
+Summary: A mini nueral network framework
+Home-page: UNKNOWN
+Author: Zhang Ying
+Author-email: alexandrea@126.com
+License: UNKNOWN
+Project-URL: Bug Tracker, 
+Description: ## About
+        This is a mini deep learning framework created by Zhang Ying.
+        
+        ## Features
+        
+        + Define Dynamic Computing Graph
+        + Define Neural Network Operator
+        + Define Linear, Sigmoid, L2_Loss
+        + Auto-Diff Computing
+        + Auto-Feedforward and Backward
+        
+        ## Remain
+        + Classification
+        + Cross-Entropy
+        + CNN, RNN
+        
+        ## Connection
+        Email: alexandrea@126.com
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
