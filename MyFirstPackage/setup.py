@@ -11,9 +11,9 @@ setuptools.setup(
     description="A mini nueral network framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/weownthenight/mini_nueral_network_framework",
     project_urls={
-        "Bug Tracker": "",
+        "Bug Tracker": "https://github.com/weownthenight/mini_nueral_network_framework",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

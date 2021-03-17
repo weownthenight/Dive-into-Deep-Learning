@@ -2,11 +2,11 @@ Metadata-Version: 2.1
 Name: ZY-Frame
 Version: 0.0.1
 Summary: A mini nueral network framework
-Home-page: UNKNOWN
+Home-page: https://github.com/weownthenight/mini_nueral_network_framework
 Author: Zhang Ying
 Author-email: alexandrea@126.com
 License: UNKNOWN
-Project-URL: Bug Tracker, 
+Project-URL: Bug Tracker, https://github.com/weownthenight/mini_nueral_network_framework
 Description: ## About
         This is a mini deep learning framework created by Zhang Ying.
         
